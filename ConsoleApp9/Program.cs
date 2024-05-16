@@ -6,4 +6,5 @@ using LeetCode.Medium;
 //_2373.InvokeTest();
 //_1470.InvokeTest();
 //_861.InvokeTest();
-_1219.InvokeTest();
+//_1219.InvokeTest();
+_2331.InvokeTest();
